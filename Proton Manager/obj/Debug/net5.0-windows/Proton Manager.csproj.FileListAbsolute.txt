@@ -1,0 +1,21 @@
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\Proton Manager.exe
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\Proton Manager.deps.json
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\Proton Manager.runtimeconfig.json
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\Proton Manager.runtimeconfig.dev.json
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\Proton Manager.dll
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\ref\Proton Manager.dll
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\bin\Debug\net5.0-windows\Proton Manager.pdb
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.csproj.AssemblyReference.cache
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton_Manager.NewDatabaseForm.resources
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton_Manager.ProtonMain.resources
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.csproj.GenerateResource.cache
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.AssemblyInfoInputs.cache
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.AssemblyInfo.cs
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.dll
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\ref\Proton Manager.dll
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.pdb
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton Manager.genruntimeconfig.cache
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton_Manager.OpenDatabaseForm.resources
+C:\Users\Sheyz\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Proton Manager\Proton Manager\obj\Debug\net5.0-windows\Proton_Manager.EntryForm.resources
